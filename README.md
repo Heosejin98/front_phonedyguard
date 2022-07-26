@@ -10,7 +10,11 @@ map api를 사용하여 사용자들간 위치를 확인할 수 있는 어플
 ### 프로젝트 개발환경 및 언어
 <img width="1644" alt="Screen Shot 2022-07-26 at 3 08 48 PM" src="https://user-images.githubusercontent.com/61305083/180935918-4c403a13-635e-4284-b945-8a0c1678282c.png">
 
+# SoftWare Architecture
+### 전체 구조
+<img width="1592" alt="image" src="https://user-images.githubusercontent.com/61305083/180936341-9664ddf4-d07e-48f7-82da-5f984e75889a.png">
 
 # Main Functions
+![image](https://user-images.githubusercontent.com/61305083/180936997-a3a1bc2d-80e5-4863-8f25-0ccf0adb2045.png)
 
 # Developers
